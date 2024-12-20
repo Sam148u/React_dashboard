@@ -1,0 +1,29 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  text-align: center;
+}
+
+.filter-container {
+  margin-bottom: 20px;
+}
+
+.call-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+.call-table th, .call-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.call-table th {
+  background-color:rgb(11, 235, 41);
+}
+
+.loader {
+  font-size: 1.5em;
+  font-weight: bold;
+}
